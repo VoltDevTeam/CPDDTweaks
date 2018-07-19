@@ -1,14 +1,13 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/reposi3</url>
-			<iconclass>fa fa-twitter</iconclass>
+			<name>CPDDTweaks</name>
+			<url>https://cpddtweaks.github.io/</url>
+
 		</link>
 		<link>
-			<name>I want this depiction template</name>
-			<url>https://github.com/supermamon/Reposi3/</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
+			<name>CPDDTweaks</name>
+			<url>https://cpddtweaks.github.io/</url>
 		</link>
 	</footerlinks>
 </repo>
